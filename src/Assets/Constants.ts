@@ -54,13 +54,13 @@ export const Quotes: QuotesInterface[] = [
     quote:
       "In the midst of winter, I found there was, within me, an invincible summer",
     author: "- Albert Camus",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/Albert_camus.png"),
   },
   {
     quote:
       "Success is not final, failure is not fatal: it is the courage to continue that counts",
     author: "- Winston Churchill",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/winston_churchhill.png"),
   },
   {
     quote: "Don't watch the clock; do what it does. Keep going",
@@ -70,17 +70,17 @@ export const Quotes: QuotesInterface[] = [
   {
     quote: "The best revenge is massive success.",
     author: "- Frank Sinatra",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/frank_sinatra.png"),
   },
   {
     quote: "The only thing we have to fear is fear itself",
     author: "- Martin Luther King Jr",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/martin_luther_king.png"),
   },
   {
     quote: "The only true wisdom is in knowing you know nothing",
     author: "- Socrates",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/socrates.png"),
   },
   {
     quote:
@@ -92,55 +92,55 @@ export const Quotes: QuotesInterface[] = [
     quote:
       "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment",
     author: "- Ralph Waldo Emerson",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/Ralph_waldo.png"),
   },
   {
     quote: "The journey of a thousand miles begins with one step",
     author: "- Lao Tzu",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/Lao_tzu.png"),
   },
   {
     quote: "Life is really simple, but we insist on making it complicated",
     author: "- Confucius",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/confucius.png"),
   },
   {
     quote:
       "The greatest glory in living lies not in never falling, but in rising every time we fall",
     author: "- Nelson Mandela",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/Nelson_mandela.png"),
   },
   {
     quote: "To succeed in life, you need two things: ignorance and confidence",
     author: "- Franklin D. Roosevelt",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/franklin_roosevelt.png"),
   },
   {
     quote: "The only thing we have to fear is fear itself",
     author: "- Mark Twain",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/mark_twain.png"),
   },
   {
     quote:
       "The only limit to our realization of tomorrow will be our doubts of today",
     author: "- Franklin D. Roosevelt",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/franklin_roosevelt.png"),
   },
   {
     quote: "A person who never made a mistake never tried anything new",
     author: "- Albert Einstein",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/Albert_einstein.png"),
   },
   {
     quote:
       "The only thing standing between you and your dream is the will to try and the belief that it is actually possible",
     author: "- Joel Brown",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/joel_brown.png"),
   },
   {
     quote: "The greatest wealth is to live content with little",
     author: "- Plato",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/plato.png"),
   },
   {
     quote: "Hard work is worthless for those that don't belive in themsevles",
@@ -162,40 +162,40 @@ export const Quotes: QuotesInterface[] = [
     quote:
       "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe",
     author: "- Albert Einstein",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/Albert_einstein.png"),
   },
   {
     quote:
       "Happiness is not something ready-made. It comes from your own actions..",
     author: "- Dalai Lama",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/Dalai_lama.png"),
   },
   {
     quote: "The best way to predict the future is to create it.",
     author: "- Peter Drucker",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/peter_drucker.png"),
   },
   {
     quote:
       "Success is stumbling from failure to failure with no loss of enthusiasm.",
     author: "- Winston Churchill",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/winston_churchhill.png"),
   },
   {
     quote:
       "Our lives begin to end the day we become silent about things that matter",
     author: "- Martin Luther King Jr.",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/martin_luther_king.png"),
   },
   {
     quote: "Believe you can and you're halfway there",
     author: "- Theodore Roosevelt.",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/Theodore_roosevelt.png"),
   },
   {
     quote: "You miss 100% of the shots you don't take",
     author: "- Wayne Gretzky.",
-    image: require("../Images/png/ralph.png"),
+    image: require("../Images/png/wayne_gretzky.png"),
   },
   {
     quote:
